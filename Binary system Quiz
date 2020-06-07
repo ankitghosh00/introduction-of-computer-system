@@ -1,0 +1,57 @@
+
+1.Question 1
+Which of these is a valid byte? Check all that apply.
+
+<A>     11011011
+<B>     00000000
+<C>     10022011
+<D>      11100
+
+AnS: <A> 11011011
+
+
+
+
+2.Question 2
+How many possible values can we have with 8 bits?
+<A>       8
+<B>      127
+<C>     1 byte
+<D>      256
+
+AnS: <D> 256
+
+
+3.Question 3
+Why did UTF-8 replace the ASCII character-encoding standard?
+
+<A>       UTF-8 can store a character in more than one byte.
+<B>       UTF-8 only uses 128 values.
+<C>       ASCII can store a character in more than one byte.
+<D>       ASCII can represent emoji.
+
+
+AnS:<A>       UTF-8 can store a character in more than one byte.
+
+
+4.Question 4
+What is the highest decimal value we can represent with a byte?
+
+<A>     Any number
+<B>     255
+<C>     256
+<D>      2
+
+
+AnS: <B> 255
+
+
+5.Question 5
+The binary value of the ASCII letter "c" is 0110 0011. Using the handy chart that we learned in the lesson, convert this number to its decimal value. You'll need to use some math for this question.
+
+<A>     45
+<B>    100
+<C>    123
+<D>    99
+
+AnS: <D> 99
